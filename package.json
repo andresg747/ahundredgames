@@ -1,0 +1,20 @@
+{
+  "name": "ahundredgames",
+  "version": "1.0.0",
+  "description": "A list of 100 games you should play before dying. By: Dany Belvedere",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "next-fonts": "^1.4.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "sass": "^1.26.10"
+  },
+  "author": "Andrés García",
+  "license": "ISC"
+}

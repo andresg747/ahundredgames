@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Invasion";
+  src: url("../public/fonts/INVASION2000.TTF");
+}
+
+.container {
+  background-color: #016168;
+  color: white;
+}
+
+.headerTitle {
+  font-family: "Invasion";
+  font-size: 3.2em;
+  margin: 0;
+}
+
+.headerSubtitle {
+  font-family: "Invasion";
+  margin-top: 0.2em;
+  margin-bottom: 0.4em;
+}
+
+.header {
+  padding: 0.4em 0 1.8em;
+  margin: auto;
+  max-width: 310px;
+}
+
+.by {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+  float: right;
+}
+
+.contentWrapper {
+  max-width: 400px;
+  background-color: white;
+  height: 1000px;
+  margin: auto;
+  border: 2px solid #003e42;
+}
